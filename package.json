@@ -11,7 +11,7 @@
   "main": "tailwind.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": " npx tailwindcss -i ./src/css/input.css -o ./public/css/final.css --watch"
+    "dev": " npx tailwindcss -i ./src/css/input.css -o ./docs/css/final.css --watch"
   },
   "keywords": [],
   "author": "",
